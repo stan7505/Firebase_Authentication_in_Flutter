@@ -44,3 +44,4 @@ app.*.map.json
 
 # Ignore firebase_options.dart
 lib/firebase_options.dart
+app/google-services.json
